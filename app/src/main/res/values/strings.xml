@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="lang">En</string>
+    <string name="GPSstat">Status GPS:</string>
+    <string name="SETstat">Status NET:</string>
+    <string name="koorGPS">Koordinates GPS:</string>
+    <string name="koorSET">Koordinates NET:</string>
+    <string name="save">Save</string>
+    <string name="sbros">Reset</string>
+    <string name="calc">Calc</string>
+    <string name="active">Active</string>
+    <string name="noactive">No Active</string>
+    <string name="plos">S Circle</string>
+    <string name="pod_gps">GPS:</string>
+    <string name="pod_net">NET:</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="GPSstat">Статус GPS:</string>
+    <string name="SETstat">Статус сети:</string>
+    <string name="koorGPS">Координаты GPS:</string>
+    <string name="koorSET">Координаты сети:</string>
+    <string name="save">Сохранить</string>
+    <string name="sbros">Сброс</string>
+    <string name="calc">Расчет</string>
+    <string name="active">Активно</string>
+    <string name="noactive">Не Активно</string>
+    <string name="lang">Ру</string>
+    <string name="plos">S Круга</string>
+    <string name="pod_gps">GPS:</string>
+    <string name="pod_net">Сеть:</string>
+</resources>
